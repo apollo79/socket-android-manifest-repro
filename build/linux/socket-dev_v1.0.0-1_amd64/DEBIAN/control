@@ -1,0 +1,6 @@
+Package: socket-dev
+Version: 1.0.0
+Architecture: amd64
+Maintainer: {{meta_maintainer}}
+Description: socket
+ {{meta_description}}

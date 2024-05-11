@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=v1.0.0
+Name=socket-dev
+Terminal=false
+Type=Application
+Exec=/opt/socket-dev/socket-dev %U
+Icon=/usr/share/icons/hicolor/256x256/apps/socket-dev.png
+StartupWMClass=socket-dev
+StartupNotify=true
+Comment={{meta_description}}
+Categories=Developer Tools;
+MimeType=x-scheme-handler/socket

@@ -1,0 +1,4 @@
+rootProject.name = "socket-dev"
+startParameter.offline = false
+include ':app'
+startParameter.offline=false
